@@ -10,7 +10,7 @@
 
   This language has evolved through several versions, namely ES1, ES2, ES3, ES5, and the transformative ES6
 
-# What kind of language, the JavaScript is?
+# What kind of language the JavaScript is?
 
   JavaScript is a high-level, interpreted, dynamic programming language.
   JavaScript supports Functional and object-oriented programming. 
