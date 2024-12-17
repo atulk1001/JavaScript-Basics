@@ -1,4 +1,5 @@
 # JavaScript-Basics
+
   JavaScript is a programming language that adds interactivity to your website.
   
   JavaScript was initially created by Brendan Eich of NetScape and was first announced in a press release by Netscape in 1995.
@@ -8,3 +9,8 @@
   Achieved the status of an ECMA standard in 1997 and adopted the official name ECMAScript.
 
   This language has evolved through several versions, namely ES1, ES2, ES3, ES5, and the transformative ES6
+
+# What kind of language, the JavaScript is?
+
+  JavaScript is a high-level, interpreted, dynamic programming language.
+  JavaScript supports Functional and object-oriented programming. 
