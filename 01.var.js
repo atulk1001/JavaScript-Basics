@@ -1,4 +1,5 @@
-// var can be redeclaired and reassigned
+//The var statement declares function-scoped or globally-scoped variables, which can be redeclared and reassigned.
+//The var statement is hoisted to the top of the function or global scope, but the assignment is not.
 
 var name = "John"; // global variable
 var name = "Doe"; // redeclared

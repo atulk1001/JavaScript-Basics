@@ -31,4 +31,4 @@ function printNumCube(num) {
   return res;
 }
 console.log(printNumCube(5)); // 125
-console.log(res); // res is not defined
+//console.log(res); // res is not defined
