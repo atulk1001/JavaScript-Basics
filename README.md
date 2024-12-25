@@ -23,11 +23,17 @@ The variable may be reassigned to a new value, but the existing value can not be
 Below are Primitive data types: 
 
 string
+
 number
+
 bigint
+
 boolean
+
 undefined
+
 symbol
+
 null
 
 **Non Primitive data types** 
@@ -35,6 +41,7 @@ null
 Non-primitive data types, also known as reference types, are objects and derived data types. They can store collections of values or more complex entities. The two key non-primitive data types in JavaScript are:
 
 Object
+
 Array
 
 # JavaScript is a weekly typed language
