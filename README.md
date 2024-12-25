@@ -13,4 +13,4 @@
 # What kind of language the JavaScript is?
 
   JavaScript is a high-level, interpreted, dynamic programming language.
-  JavaScript supports Functional and object-oriented programming. 
+  JavaScript supports both Functional and object-oriented programming. 
