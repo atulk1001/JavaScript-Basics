@@ -1,0 +1,19 @@
+# Rules for Naming a Variable
+
+    Start with a Letter, Underscore, or Dollar Sign
+        var _name;
+        var $name;
+        var name1;
+
+    Case Sensitivity: 
+        Variable names are case-sensitive.
+        This means myVariable and myvariable would be considered different variables
+    
+    Avoid using JavaScript reserved words or keywords : 
+        Examples include break, case, catch, class, const, continue, debugger, default, delete, do, else, export, extends, finally, for, function, if, import, in, instanceof, let, new, return, super, switch, this, throw, try, typeof, var, void, while, with, and yield.
+        
+    Descriptive Names: 
+        Use meaningful and descriptive names that make the purpose of the variable clear.
+
+    Camel Case Convention: 
+        It is common practice to use camel case for variable names, where the first word is lowercase and each subsequent word starts with an uppercase letter.
