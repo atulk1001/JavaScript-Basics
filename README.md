@@ -42,20 +42,33 @@ Array
 which means it allows implicit type conversion when an operation involves mismatched types, instead of throwing type errors
 
 const foo = 42; // Number
+
 const result = foo + "1"; // Number + String does not throw error instead converted to string
+
 console.log(result); // 421
 
 # JavaScript Features
+
 Light Weight
+
 DOM manipulation
+
 Event-driven
+
 Asynchronous
+
 Interpreted
+
 Just-in-time compilation (V8)
+
 Higher-order functions
+
 Dynamic typing
+
 Platform independent
+
 Prototype-based
+
 ES6 (ECMAScript 2015)
 
 
