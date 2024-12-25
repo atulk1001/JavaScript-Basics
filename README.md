@@ -20,8 +20,6 @@
 **Primitive data types** are the built-in data types provided by JavaScript. They represent single values and are not mutable.
 The variable may be reassigned to a new value, but the existing value can not be changed in the ways that objects, arrays, and functions can be altered.
 
-Below are Primitive data types: 
-
 string
 
 number
