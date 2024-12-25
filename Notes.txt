@@ -10,8 +10,11 @@
         This means myVariable and myvariable would be considered different variables
     
     Avoid using JavaScript reserved words or keywords : 
-        Examples include break, case, catch, class, const, continue, debugger, default, delete, do, else, export, extends, finally, for, function, if, import, in, instanceof, let, new, return, super, switch, this, throw, try, typeof, var, void, while, with, and yield.
-        
+        Examples include break, case, catch, class, const, continue, debugger, default,
+         delete, do, else, export, extends, finally, for, function, if, import, in,
+        instanceof, let, new, return, super, switch, this, throw, try, typeof, var, 
+        void, while, with, and yield.
+
     Descriptive Names: 
         Use meaningful and descriptive names that make the purpose of the variable clear.
 
