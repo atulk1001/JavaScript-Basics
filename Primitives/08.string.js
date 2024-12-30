@@ -5,6 +5,13 @@
 "Blue Whale".indexOf("blue"); // -1
 "Blue Whale".indexOf("Blue"); // 0
 
+// lastIndexof method returns the index of the last occurrence of a specified value in a string
+
+const anyString = "Brave, Brave New World";
+
+console.log(anyString.indexOf("Brave")); // 0
+console.log(anyString.lastIndexOf("Brave")); // 7
+
 // Find all occurrences of a substring in a string
 
 const str = "To be, or not to be, that is the question.";
