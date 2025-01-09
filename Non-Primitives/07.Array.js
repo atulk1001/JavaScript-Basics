@@ -1,4 +1,4 @@
-// create custom Array with Array.prototype.constructor
+// create custom Array method with Array.prototype.constructor
 Array.prototype.cleanArray = function () {
   return this.filter((ele) => {
     if (ele !== null && ele !== undefined) {
